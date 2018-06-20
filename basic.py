@@ -60,5 +60,12 @@ print(a)
 ### if else in python
 
 
+
 ### loops in python
 
+print("-- range --")
+n = 10
+sum = 0
+for i in range(1,n):
+    sum = sum + i
+print (sum)
